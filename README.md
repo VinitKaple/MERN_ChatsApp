@@ -39,14 +39,13 @@ Vinit Kaple
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/bccf7690-a36a-4779-bbf0-9539aa9aece7)
+![a](https://github.com/user-attachments/assets/11f3c782-3ee7-4052-bb52-97ebb2e67fec)
 
-![image](https://github.com/user-attachments/assets/52ad6531-d8f6-442d-99b3-4df32c563e6c)
+![b](https://github.com/user-attachments/assets/9330d8dc-0fca-4026-a3f0-ae4b4f6547e9)
 
-![image](https://github.com/user-attachments/assets/544b7238-e3db-4c76-bbfe-edb6464bceca)
+![c](https://github.com/user-attachments/assets/8ebf8548-2613-4a55-9791-5013516405bb)
 
-![image](https://github.com/user-attachments/assets/0d5c7b1b-088a-4875-b24f-3d52b4facba5)
+![d](https://github.com/user-attachments/assets/360d2eec-f129-4def-909e-acc58a190a03)
 
-![image](https://github.com/user-attachments/assets/1ed8caa2-c5b4-4e5f-b78a-fe1270ef3f38)
-
+![e](https://github.com/user-attachments/assets/bd8c9e57-bf6e-4666-a9f6-856235e33dfc)
 
