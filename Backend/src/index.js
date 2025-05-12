@@ -21,7 +21,7 @@ app.use(express.urlencoded({ extended: true, limit: "10mb" }));
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://chatsapp-hupv.onrender.com",
+    origin: "http://localhost:5173",
     credentials: true,
   })
 );
